@@ -8,19 +8,19 @@
 
 The background is the bare bones of desktop customization. So, let me introduce you to some of my favourites.
 
-## 1.
+## 1. Miku and funeral (1/2 Body)
 
 ![Miku1](Farewell(1).png)
 
 > *Originally drawn by [Konya Karasue](https://www.pixiv.net/en/users/10109777), recoloured and added texts by ShotChannel (me).*
 
-## 2.
+## 2. Miku and funeral (Face-focused, Flowers-focused)
 
 ![Miku2](Design(1).png)
 
 > *Originally drawn by [Konya Karasue](https://www.pixiv.net/en/users/10109777), recoloured by ShotChannel (me).*
 
-## 3.
+## 3. Miku and funeral (Full Body)
 
 ![Miku3](Design(2).png)
 
