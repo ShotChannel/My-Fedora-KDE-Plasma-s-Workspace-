@@ -16,4 +16,17 @@ The background is the bare bones of desktop customization. So, let me introduce 
 
 ## 2.
 
-![Miku2](Thiết-kế(1).png)
+![Miku2](Design(1).png)
+
+> *Originally drawn by [Konya Karasue](https://www.pixiv.net/en/users/10109777), recoloured by ShotChannel (me).*
+
+## 3.
+
+![Miku3](Design(2).png)
+
+> *Originally drawn by [Konya Karasue](https://www.pixiv.net/en/users/10109777), recoloured by ShotChannel (me).*
+
+
+
+> [!NOTE]
+> The list is still expanding...Until the end of time...🕙
