@@ -30,3 +30,11 @@ The background is the bare bones of desktop customization. So, let me introduce 
 
 > [!NOTE]
 > The list is still expanding...Until the end of time...🕙
+
+## How to change backgrounds in KDE Plasma?
+
+*I believe people already knew this one, but just in case...*
+
+### Step 1: Open the *Desktop and Wallpaper* setting by right-clicking the desktop.
+
+![ins1](Backgrounds/Instruction images/Screenshot_20251004_220745.png)
